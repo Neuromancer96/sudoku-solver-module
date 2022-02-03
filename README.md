@@ -1,1 +1,1 @@
-"# my very first project here" 
+"Sudoku solver module i plan use in Sudoku solver gui app." 
